@@ -14,19 +14,19 @@ export const services = [
   {
     id: 1,
     icon: 'fas fa-wallet',
-    title: 'saving money',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.',
+    title: 'Affordable Luxury',
+    text: 'Experience the epitome of luxury at unbeatable prices. Enjoy premium amenities without breaking the bank.',
   },
   {
     id: 2,
     icon: 'fas fa-map',
-    title: 'endless hiking',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.',
+    title: 'Explore Local Culture',
+    text: 'Dive into the heart of our locale with guided cultural tours. Discover hidden gems and immerse yourself in local traditions.',
   },
   {
     id: 3,
     icon: 'fas fa-globe',
-    title: 'amazing tour guides',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.',
+    title: 'World-Class Service',
+    text: 'Our dedicated team offers personalized service around the clock. Enjoy a seamless and unforgettable stay with us.',
   },
 ];
