@@ -3,7 +3,7 @@ const Rooms = () => {
     <section className="section" id="tours">
       <div className="section-title">
         <h2>
-          featured <span>tours</span>
+          featured <span>rooms</span>
         </h2>
       </div>
 
@@ -102,7 +102,7 @@ const Rooms = () => {
                 <span>
                   <i className="fas fa-map"></i>
                 </span>{' '}
-                kenya
+                Nigeria
               </p>
               <p>20 days</p>
               <p>from $3300</p>
